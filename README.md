@@ -1,4 +1,4 @@
 # EShopper-vg
 shopping website
 <br>
-Author - Vidhi Gohill
+Author - Vidhi Gohill patel
